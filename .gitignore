@@ -1,3 +1,13 @@
+# local
+local/
+local_*
+.clasp.json
+jsconfig.json
+node_modules
+package.json
+appsscript.json
+package-lock.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
